@@ -96,7 +96,4 @@ The project is deployed on Render:
 
 ---
 
-## Author
-
-Mayank Hansraj
 
