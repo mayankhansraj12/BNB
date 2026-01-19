@@ -62,11 +62,11 @@ Screenshots of the application flow and execution are attached below.
 > Home Page
  <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/2183579e-5d6d-4e84-9352-f242cfe699f3" />
 
-> Listing adding feature > Listing Finalize
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/5e400270-4c86-4816-a5c9-c84711d488e8" /> <img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/d7becb85-b60c-499e-b4fa-1f74a01f821d" />
+> Listing adding feature 
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/5e400270-4c86-4816-a5c9-c84711d488e8" />
 
-
-
+> Listing Finalize
+<img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/d7becb85-b60c-499e-b4fa-1f74a01f821d" />
 
 > Booking Page
 <img width="1000" height="700" alt="image" src="https://github.com/user-attachments/assets/1ceed69c-f2a0-4e84-8567-6f03e55f1ad4" />
