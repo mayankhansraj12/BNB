@@ -1,4 +1,4 @@
-<img width="2189" height="1118" alt="image" src="https://github.com/user-attachments/assets/4bf5eaf5-14cc-4940-8fb9-41dc50f7e53b" /># BNB
+# BNB
 
 BNB is a full-stack web application inspired by Airbnb.
 It allows users to create property listings, browse available stays, make bookings, cancel reservations, and rate properties.
